@@ -7,8 +7,7 @@ root.geometry('800x800')
 
 
 filename_string = None
-# function to display user text when
-# button is clicked
+
 def clicked():
     filename_string = str(txt.get())
 
